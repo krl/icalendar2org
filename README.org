@@ -1,0 +1,5 @@
+
+* about
+	Small python script that reads icalendar format from stdin and produces org-mode scheduling on stdout.
+	
+	License GPL3+
